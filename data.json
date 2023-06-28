@@ -1,0 +1,50 @@
+[
+    {
+        "image": "../assets/cattle.jpg",
+        "name": "cattle"
+    },
+    {
+        "image": "../assets/dinosaur.jpg",
+        "name": "dinosaur"
+    },
+    {
+        "image": "../assets/cat.jpg",
+        "name": "cat"
+    },
+    {
+        "image": "../assets/spider.jpg",
+        "name": "spider"
+    },
+    {
+        "image": "../assets/bear.jpg",
+        "name": "bear"
+    },
+    {
+        "image": "../assets/frog.jpg",
+        "name": "frog"
+    },
+    {
+        "image": "../assets/rabbit.jpg",
+        "name": "rabbit"
+    },
+    {
+        "image": "../assets/dog.jpg",
+        "name": "dog"
+    },
+    {
+        "image": "../assets/giraffe.jpg",
+        "name": "giraffe"
+    }
+    {
+        "image": "../assets/monkey.jpg",
+        "name": "monkey"
+    },
+    {
+        "image": "../assets/bird.jpg",
+        "name": "bird"
+    },
+    {
+        "image": "../assets/bull.jpg",
+        "name": "bull"
+    }
+]
